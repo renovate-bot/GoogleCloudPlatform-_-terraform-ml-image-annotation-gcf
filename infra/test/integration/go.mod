@@ -7,7 +7,7 @@ toolchain go1.22.3
 require (
 	github.com/GoogleCloudPlatform/cloud-foundation-toolkit/infra/blueprint-test v0.15.1
 	github.com/parnurzeal/gorequest v0.3.0
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.11.0
 )
 
 require (
